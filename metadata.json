@@ -1,0 +1,7 @@
+{
+  "name": "Where's Up?",
+  "description": "Discover what's happening now. Where's Up? is a real-time social platform for ephemeral events. Features live check-in, a 'People' carousel to see who's there, live 'Hype' ratings, private chat, and maps integration. All content self-destructs in 24 hours.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
